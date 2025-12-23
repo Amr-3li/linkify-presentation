@@ -1,38 +1,48 @@
-# linkify
+# linkify (source code in private repo github)
 
 📱 Linkify
 
     Linkify is a modern social media app built with Flutter and Firebase, designed to connect people through posts, media sharing, and real-time messaging. The app delivers a smooth, responsive, and engaging user experience across devices.
+---
+## Demo Video
+https://github.com/user-attachments/assets/e1d80207-5cef-4db3-bd48-b5a8398601cc
 
-🚀 Features
+---
+## 🚀 Features
 
-   - User Authentication – Secure sign-in & sign-up with Firebase Authentication.
+- **User Authentication**  
+  Secure sign-in and sign-up using Firebase Authentication.
 
-   - Create & Share Posts – Support for text, images, and videos.
+- **Post Creation & Sharing**  
+  Create and share posts with support for text, images, and video content.
 
-   - Real-Time Messaging – Instant chat powered by Firebase.
+- **Real-Time Messaging**  
+  Instant one-to-one messaging powered by Firebase real-time capabilities.
 
-   - Responsive UI – Seamless experience on mobile & tablets.
+- **Responsive User Interface**  
+  Optimized layouts ensuring a consistent experience across mobile phones and tablets.
 
-   - State Management – Efficient and scalable using Cubit.
+- **State Management**  
+  Scalable and maintainable architecture using Cubit (Bloc).
 
-   - Data Storage – Integration with Supabase for structured data handling.
+- **Data Management**  
+  Structured data handling with Supabase integration.
 
-   - Performance Optimized – Smooth navigation and fast interactions.
+- **Performance Optimization**  
+  Smooth navigation and fast interactions with optimized app performance.
 
-🛠️ Tech Stack
+---
 
-   - Framework: Flutter
+## 🛠️ Tech Stack
 
-   - State Management: Cubit (Bloc)
-
-   - Backend Services: Firebase (Auth, Firestore, Storage)
-
-   - Database: Supabase
-
-   - Local Storage: SQLite
-
-   - Tools: Dart, Android Studio, VS Code
+- **Framework:** Flutter  
+- **Programming Language:** Dart  
+- **State Management:** Cubit (Bloc)  
+- **Backend Services:** Firebase (Authentication, Firestore, Cloud Storage,database)  
+- **Database:** data storage  
+- **Local Storage:** Sharedprefrence 
+- **Development Tools:** Android Studio, Visual Studio Code
+- **Clean Code**
 
 📸 Screenshots
 
@@ -77,6 +87,5 @@
 
 Developed by Amr Ali
 
-GitHub: [[your-github-link]](https://github.com/Amr-3li)
 
-LinkedIn: [your-linkedin-link]
+LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/amr-ali1/)
